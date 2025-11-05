@@ -922,11 +922,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: c3a2b31f-56e5-4411-a90f-24fe825560ce
+  cloudProjectId: 3c5459ab-26e5-4d74-9e1d-a01786c5c12f
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Project GIT
-  organizationId: unity_b5b9f94692dd2cdf2dd7
+  projectName: Projet_Git
+  organizationId: andwill88
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
